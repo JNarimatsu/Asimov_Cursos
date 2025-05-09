@@ -1,7 +1,8 @@
 ## Asimov_Cursos
 Projetos realizados nos cusros da plataforma Asimov Academy.
 
-# Top 100 Bestselling Book Reviews on Amazon
+# 🐍Python - Do zero ao primeiro projeto 
+## Top 100 Bestselling Book Reviews on Amazon
 Projeto realizado durante o curso Python - do Zero ao primeiro projeto. O projeto em questão é uma paltaforma utuilizando os conjuntos de dados coletados da plataforma Kaggle com as informações do top 100 livros mais vendidos pela Amazon no ano de 2023.
 Na plataforma que criamos é possível verificar o rannking dos 100 livros mais vendidos, filtrá-los por preços, e análisar os dados de vendas por meio dos gráficos de ano de publicação e de valor. Os gráficos são interativos tornamdo a visualizaçào desses dado simples e prática. Também é possivel verificar os detalhes desses livros na página "Books reviews". Nela temos detalhes como nome, preço, ano de publicação, colocação do livro no ranking e resenhas dadas pelos compradores desse livro após sua compra na amazon.
 
