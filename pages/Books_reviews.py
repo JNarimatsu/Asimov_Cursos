@@ -4,8 +4,8 @@ import pandas as pd
 st.set_page_config(layout = "wide") #Configurando para que a configuração d tela cheia persista
 
 #Importando as tabelas com reviews e livros coletada do kaggle
-df_reviews = pd.read_csv(r'C:\Users\julia\Documents\Asimov\Python - Zero ao primeiro projeto\customer reviews.csv')
-df_top100_books = pd.read_csv(r'C:\Users\julia\Documents\Asimov\Python - Zero ao primeiro projeto\Top-100 Trending Books.csv')
+df_reviews = pd.read_csv(r'customer reviews.csv')
+df_top100_books = pd.read_csv(r'Top-100 Trending Books.csv')
 
 #Configurando o select box com os livros
 books = df_top100_books['book title'].unique()
